@@ -13,5 +13,5 @@ layout: home
 - [Iliyana Yotova](https://iyotova95.github.io)
 - [Eli Zeltzer](https://ejzeltzer.github.io)
 - [Zach Zimmerle](https://zzimmerle.github.io/zz)
-<!-- Lopez Guevara, Javier -->
+- [Javier Lopez](https://jlguevarafirstrepository.github.io)
 <!-- Monteleone, Anna -->
