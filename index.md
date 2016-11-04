@@ -14,4 +14,5 @@ layout: home
 - [Eli Zeltzer](https://ejzeltzer.github.io)
 - [Zach Zimmerle](https://zzimmerle.github.io/zz)
 - [Javier Lopez](https://jlguevarafirstrepository.github.io)
+
 <!-- Monteleone, Anna -->
