@@ -10218,4 +10218,3 @@ if ( !noGlobal ) {
 
 return jQuery;
 } );
-</script>
