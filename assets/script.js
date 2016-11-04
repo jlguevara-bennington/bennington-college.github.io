@@ -15,7 +15,7 @@ $( document ).ready(function() {
 
 	$('this').click(
 		function () {
-			$('a').css('display','none')
+			$('this').css('display','none')
 		}
 
 	);
