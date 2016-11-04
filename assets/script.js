@@ -13,10 +13,12 @@ $( document ).ready(function() {
 
 	);
 
-	$('this').click(
+	$('a').click(
 		function () {
 			$('this').css('display','none')
 		}
 
 	);
+
+
 });
