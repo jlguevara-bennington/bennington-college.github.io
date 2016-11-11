@@ -21,14 +21,7 @@ $( document ).ready(function() {
 	);
 
 
-});
 
-
-
-
-
-
-$( document ).ready(function() {
 	
 	var brightnessValue = 50
 
