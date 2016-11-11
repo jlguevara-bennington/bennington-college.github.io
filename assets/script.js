@@ -28,7 +28,7 @@ $( document ).ready(function() {
 
 	$('body').click(
 		
-		function(event) {
+		function() {
 			
 			yPosition = event.pageY;
 			
