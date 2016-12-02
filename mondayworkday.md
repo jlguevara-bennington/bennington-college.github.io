@@ -13,10 +13,6 @@ var characters = {
 		$('body').append("<span>"+maus+"</span>"),
 
 	},
-	disappear: function(bye){
-		$(characters).click(function() {
-			characters.empty('body'),
-	},
 };
 
 
