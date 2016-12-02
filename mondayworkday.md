@@ -8,7 +8,9 @@ permalink: /stuffdonetoday/
 	<li id="new_text">New Text</li>
 </ul>
 <div id="pool">
-    
+	<span id="text1" class="text ui-draggable ui-draggable-handle">null</span>
+	<span id="text2" class="text ui-draggable ui-draggable-handle">null</span>
+	<span id="text3" class="text ui-draggable ui-draggable-handle">null</span>
 </div>
 <script type="text/javascript">
 	$("#new_text").click(

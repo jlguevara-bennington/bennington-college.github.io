@@ -37,7 +37,7 @@ content.text = {
         this.element = $( '#text'+this.index ).eq(0);
 
         // make draggable with jquery.ui
-        this.element.draggable();
+        // this.element.draggable();
 
         // use variable to pass 'this' into a different method
         var thing = this;
