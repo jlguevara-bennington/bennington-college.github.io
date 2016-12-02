@@ -3,7 +3,7 @@ author: Bennington People
 email: javierlopezguevara@bennington.edu
 description: > # this means to ignore newlines until "baseurl:"
   1ST WEBSITE MAN!
-baseurl: "/minima"
+# baseurl: "/minima"
 
 # Build settings
 markdown: kramdown
