@@ -14,13 +14,12 @@ var characters = {
 	},
 	disappear: function(bye){
 			$('body').click(empty()),
-
 	},
+};
 
+characters.appear('You have reached the matrix')
+characters.disappear('')
 });
-
-
-characters.appear("You have reached the matrix")
 
 	
 </script>
